@@ -26,7 +26,7 @@ A responsive Smart Event Dashboard built as part of Web Development II assignmen
 
 ## 📁 Project Structure
 
-```
+```md
 
 Web-Dev-2-Assignment-1/
 ├── index.html          # Main HTML file with the dashboard layout
