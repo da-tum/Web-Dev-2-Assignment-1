@@ -26,11 +26,11 @@ A responsive Smart Event Dashboard built as part of Web Development II assignmen
 
 ## 📁 Project Structure
 
-- `index.html`: Main HTML file with the dashboard layout.
-- `style.css`: CSS file for styling the application.
-- `script.js`: JavaScript file handling all functionality.
-- `readme.md`: This file.
+```
 
-## 🎯 Evaluation Notes
-
-This assignment demonstrates proficiency in front-end web development, including form handling, dynamic DOM updates, event listeners, and basic UI/UX design. The code is clean, modular, and follows best practices for vanilla JavaScript applications.
+Web-Dev-2-Assignment-1/
+├── index.html          # Main HTML file with the dashboard layout
+├── style.css           # CSS file for styling the application
+├── script.js           # JavaScript file handling all functionality
+└── readme.md           # This documentation file
+```
